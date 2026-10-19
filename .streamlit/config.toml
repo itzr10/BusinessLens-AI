@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 5
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = "type"  # tracebacks in the browser can echo values; show the type only

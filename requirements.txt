@@ -1,0 +1,10 @@
+# Direct dependencies, pinned to the versions tested on Python 3.12.
+streamlit==1.66.0
+pandas==3.0.6
+numpy==2.5.4
+plotly==7.1.0
+google-genai==2.31.0
+openai==3.35.1
+# openai 3.x talks HTTP through httpx2; pinned because the OpenAI adapter imports it directly.
+httpx2==2.14.0
+pytest==9.1.1

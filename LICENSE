@@ -1,0 +1,34 @@
+BusinessLens AI: Proprietary Software Notice
+
+Copyright (c) 2026 Rahul Pravin Sawant. All rights reserved.
+
+This is NOT an open-source license. It has not been approved by the Open Source
+Initiative, and this software is not "open source" or "free software".
+
+1. OWNERSHIP. BusinessLens AI, including its source code, documentation, tests,
+   benchmarks and sample data (the "Software"), is the property of the copyright
+   holder above. No rights are granted except those stated in this notice.
+
+2. PERMITTED. You may view the source code in this repository for personal,
+   non-commercial evaluation and read it to understand how it works.
+
+3. NOT PERMITTED without prior written permission from the copyright holder:
+   - using the Software for any commercial purpose, or in any business or
+     production setting;
+   - copying, modifying, merging, publishing, distributing, sublicensing, selling
+     or offering the Software, or any derivative work, to others, including as a
+     hosted or network service;
+   - removing or altering this notice.
+
+4. THIRD-PARTY COMPONENTS. The Software depends on third-party packages that are
+   not distributed in this repository and remain under their own licenses (see
+   THIRD_PARTY_NOTICES.md). This notice does not change those licenses.
+
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+   AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+6. TERMINATION. Any permission here ends automatically if you breach this notice.
+
+For commercial licensing, contact the copyright holder.
